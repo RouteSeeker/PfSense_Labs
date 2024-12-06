@@ -1,7 +1,7 @@
-#pfSense Labs ![image](https://github.com/user-attachments/assets/e1a19103-21ca-46f4-977d-1760d5112549)
+# pfSense Labs 📛📛📛
 
 
-Hello and welcome! This is my **pfSense Lab series**, where I document my hands-on journey of learning **pfSense Firewall**—a versatile open-source firewall and router. Along the way, I’ll share my lab setups, insights, and lessons learned. My goal is to not only deepen my understanding but also to teach and inspire others exploring pfSense and network security. Whether you’re a curious beginner or an experienced tech enthusiast, I hope this log offers valuable insights and a shared sense of growth.  
+Hello and welcome!👋👋  This is my **pfSense Lab series**, where I document my hands-on journey of learning **pfSense Firewall**—a versatile open-source firewall and router. Along the way, I’ll share my lab setups, insights, and lessons learned. My goal is to not only deepen my understanding but also to teach and inspire others exploring pfSense and network security. Whether you’re a curious beginner or an experienced tech enthusiast, I hope this log offers valuable insights and a shared sense of growth.  
 
 ---
 
